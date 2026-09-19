@@ -79,6 +79,4 @@ not being able to fetch the API key as well as some typo issues with the databas
 I learnt while making this project was the importance of clearing background tasks when testing an application. As old 
 server commands were ran in the background and led to many errors when I was testing the app with new code.
 
-FEEDBACK ON THE CHALLENGE
-[Optional — add your own thoughts here about the challenge, workshops,
-or office hours.]
+
